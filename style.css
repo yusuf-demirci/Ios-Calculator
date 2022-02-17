@@ -66,3 +66,47 @@ button:hover {
 .grey:active, .orange:active, .dark:active {
     opacity: 0.45;
 }
+
+@media screen and (max-width: 430px) {
+    main {
+        width: 22rem;
+        height: 38rem;
+    }
+    .screen {
+        font-size: 4rem;
+    }
+    button {
+        font-size: 1.7rem;
+    }
+    .dark {
+        font-size: 2rem;
+    }
+    .fa-solid {
+        font-size: 1.4rem;
+    }
+    .zero {
+        padding-left: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    main {
+        width: 17.4rem;
+        height: 30rem;
+    }
+    .screen {
+        font-size: 3rem;
+    }
+    button {
+        font-size: 1.5rem;
+    }
+    .dark {
+        font-size: 1.8rem;
+    }
+    .fa-solid {
+        font-size: 1.2rem;
+    }
+    .zero {
+        padding-left: 1rem;
+    }
+}
