@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://yusuf-demirci.github.io/Ios-Calculator/)
+- Live Site URL: https://yusuf-demirci.github.io/Ios-Calculator/
 
 ### Built with
 
